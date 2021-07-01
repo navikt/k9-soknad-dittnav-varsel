@@ -101,7 +101,7 @@ dependencies {
     testImplementation("org.awaitility:awaitility-kotlin:4.1.0")
     testImplementation("com.willowtreeapps.assertk:assertk-jvm:0.24")
     testImplementation("com.ninja-squad:springmockk:3.0.1")
-    testImplementation("io.mockk:mockk:1.11.0")
+    testImplementation("io.mockk:mockk:1.12.0")
 }
 
 tasks.withType<Test> {
